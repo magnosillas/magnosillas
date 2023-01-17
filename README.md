@@ -24,6 +24,7 @@
   <a href = "mailto:magno.sillas0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank "></a>
   <a href="https://www.linkedin.com/in/m%C3%A1gno-sillas-b9687317b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-     ![Snake animation](https://github.com/magnosillas/magnosillas/blob/output/github-contribution-grid-snake.svg)
+    
     
 </div>
+![Snake animation](https://github.com/magnosillas/magnosillas/blob/output/github-contribution-grid-snake.svg)
