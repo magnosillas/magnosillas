@@ -1,18 +1,21 @@
-# Hi, I'm Magno Sillas 👋
+# Mágno Sillas
 
-Software Developer focused on backend development, data engineering, cloud computing, and applied artificial intelligence.
+Software Developer · Backend · Data · Cloud
 
-I have experience building and maintaining real-world systems involving APIs, system integrations, ETL processes, data workflows, cloud-based solutions, and full stack applications. My current interests are backend engineering, data-driven systems, cloud infrastructure, and intelligent software solutions.
+Computer Science student with experience in backend development, full stack applications, APIs, system integrations, data workflows, and cloud-based solutions.
+
+I like building useful software, organizing code, solving practical problems, and learning better ways to design reliable applications.
+
+---
+
+## About
+
+- Computer Science student at UFAPE
+- Experience with backend, full stack development, APIs, and system integrations
+- Interested in data engineering, cloud computing, and scalable applications
 
 ---
 
-## About me
-
-- 🎓 Computer Science student at UFAPE — Federal University of Agreste of Pernambuco
-- 💻 Experience with backend, full stack development, data workflows, and cloud-based solutions
-- 🔎 Interested in Software Engineering, Data Engineering, Cloud Computing, and Applied AI
-
----
 
 ## Tech Stack
 
@@ -51,14 +54,8 @@ I have experience building and maintaining real-world systems involving APIs, sy
 
 ---
 
-## GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magnosillas&theme=default" alt="magnosillas" /></p>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=magnosillas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnosillas&langs_count=10&layout=compact&theme=gotham"/>
-</div>
-
----
 
 ## Contact
 
